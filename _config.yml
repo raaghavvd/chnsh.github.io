@@ -48,15 +48,15 @@ research_gate_profile: # your profile on ResearchGate
 blogger_url: # your blogger URL
 
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  The best way to reach me is by email.
 
-google_analytics: UA-XXXXXXXXX # out your google-analytics code
+google_analytics: UA-174218792-1 # out your google-analytics code
 
 # -----------------------------------------------------------------------------
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: blog  # your blog must have a name for it to show up in the nav bar
+blog_name:  # your blog must have a name for it to show up in the nav bar
 blog_description: a simple whitespace theme for academics
 permalink: /blog/:year/:title/
 

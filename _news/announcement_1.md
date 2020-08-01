@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2020-07-09 15:59:00-0400
 inline: true
 ---
 
-A simple inline announcement.
+[Finding Patient Zero](http://arxiv.org/abs/2006.11913) poster accepted to [NetSCI 2020](https://netsci2020.netscisociety.net/)

@@ -4,6 +4,8 @@ layout: default
 
 <div class="post">
 
+
+
   <header class="post-header">
     {% assign name = site.title | split: ' ' %}
     {% assign firstname = name | first %}
@@ -14,8 +16,9 @@ layout: default
     {% endif %}
     {% assign lastname = name | last %}
     <a class="navbar-brand title font-weight-lighter" href="{{ site.baseurl | prepend: site.url }}/">
-     <span class="font-weight-bold">{{ firstname }}</span> {{ middlenames }}  {{ lastname }}
+     <h1><span class="font-weight-bold">{{ firstname }}</span> {{ middlenames }}  {{ lastname }}</h1>
     </a>
+    <p class="post-description" style="font-size: smaller">{{page.description }}</p>
   </header>
 
   <article>

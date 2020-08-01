@@ -9,6 +9,8 @@
     {% else %}
     <abbr class="badge">{{entry.abbr}}</abbr>
     {% endif %}
+    {% elsif entry.image %}
+      <img class="img-fluid z-depth-1 rounded " src="{{ entry.image }}">
   {% endif %}
   </div>
 
@@ -65,7 +67,7 @@
 
     <span class="links">
     {% if entry.abstract %}
-      [<a class="abstract">Abs</a>]
+      [<a class="abstract">abstract</a>]
     {% endif %}
     {% if entry.arxiv %}
       [<a href="http://arxiv.org/abs/{{ entry.arxiv }}" target="_blank">arXiv</a>]

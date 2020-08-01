@@ -2,21 +2,26 @@
 layout: about
 title: about
 permalink: /
-description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
+description: <a href="https://khoury.northeastern.edu/">Khoury College of Computer Sciences</a> • <a href="https://www.northeastern.edu/">Northeastern University</a> 
 
 profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p>177 Huntington Ave</p>
+    <p>177 Huntington Ae</p>
     <p>Boston, MA 02115</p>
 
 news: true
 social: true
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Welcome to my website!
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I'm a MS CS student specializing in Machine Learning and Artificial Intelligence at [Khoury College of Computer Sciences](https://khoury.northeastern.edu/), advised by [Dr Rose Yu](http://roseyu.com/). I have spent some time at [PathAI](https://pathai.com) (Summer 2020) and [Apprentice Health](https://apprenticehealth.com) (2019) where I have applied machine learning to solving thorny problems in healthcare and improving patient outcomes.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+**Research Interests**:
+My current research interests lie in the area of graph neural networks, multi-task and meta-learning and I particularly enjoy solving problems that help in the low-data regime. I am generally interested in optimization and deep learning.
+
+**Previously**: I started my career as a software engineer at [Media.net](https://www.media.net/) (also of [Directi](https://www.directi.com/) fame) working on problems natural language and revenue optimization as they appear in ad-tech. I was fortunate to grow within the organization and gained valuable leadership experience as a senior software engineer responsible for a team of five. In the past, I've dabbled at entrepreneurship in my sophomore year by starting (now defunct :smile:) Lazywyre - an online textbook store that enabled renting books for a semester.  
+
+Topics that intrigue me include, but are not limited to networks, finance, entrepreneurship, music, and spirituality, and just about anything else that help me understand why the world is the way it is.
