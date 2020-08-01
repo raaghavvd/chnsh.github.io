@@ -89,6 +89,7 @@ rm -R _site/
 git add -fA
 git commit --allow-empty -m "$(git log -1 --pretty=%B) [ci skip]"
 git push -f -q origin $DEPLOY_BRANCH
+git push -f -q deployment $DEPLOY_BRANCH
 
 # Move back to SRC_BRANCH
 git checkout $SRC_BRANCH
