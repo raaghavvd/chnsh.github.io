@@ -17,7 +17,7 @@ social: true
 
 Welcome to my website!
 
-I'm a MS CS student specializing in Machine Learning and Artificial Intelligence at [Khoury College of Computer Sciences](https://khoury.northeastern.edu/), advised by [Dr Rose Yu](http://roseyu.com/). I have spent some time as a research intern at [PathAI](https://pathai.com) (Summer 2020) and [Apprentice Health](https://apprenticehealth.com) (2019) where I applied machine learning to solving challenging problems in healthcare and improving patient outcomes.
+I have recently graduated with an MS in CS specializing in Machine Learning and Artificial Intelligence at [Khoury College of Computer Sciences](https://khoury.northeastern.edu/), advised by [Dr Rose Yu](http://roseyu.com/). I have spent some time as a research intern at [PathAI](https://pathai.com) (Summer 2020) and [Apprentice Health](https://apprenticehealth.com) (2019) where I applied machine learning to solving challenging problems in healthcare and improving patient outcomes.
 
 **Research Interests**:
 My current skills lie in the area of graph neural networks, multi-task and meta-learning and I particularly enjoy solving problems in the low-data regime. I am generally interested in optimization and deep learning.
